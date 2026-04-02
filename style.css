@@ -1,0 +1,794 @@
+p {
+	color: red;
+}
+
+p {
+	color: rgb(255, 236, 114);
+}
+
+<p>
+	This is a paragraph with text.
+</p>
+
+p {
+	text-align: right;
+}
+
+<p>
+	This is a paragraph with text.
+</p>
+
+p {
+	text-align: center;
+}
+
+<p>
+	some long text
+</p>
+
+p {
+	text-align: justify;
+	width: 300px;
+}
+
+<p>
+	some long text
+</p>
+
+p {
+	text-align: justify;
+	width: 300px;
+}
+
+<h2>Title</h2>
+<p>
+	This is a paragraph with text.
+</p>
+
+h2 {
+	font-weight: normal;
+}
+p {
+	font-weight: bold;
+}
+
+<p>
+	This is a paragraph with text.
+</p>
+
+p {
+	font-style: italic;
+}
+
+<p>
+	This is a paragraph with text.
+</p>
+
+p {
+	font-size: 30px;
+}
+
+<p>
+	This is a paragraph with text.
+</p>
+
+p {
+	font-family: Arial;
+}
+
+<p>
+	some long text
+</p>
+
+p {
+	font-size: 20px;
+	line-height: 50px;
+	text-align: justify;
+	width: 400px;
+}
+
+<p>
+	some long text
+</p>
+
+p {
+	font-size: 20px;
+	line-height: 1.5;
+	text-align: justify;
+	width: 400px;
+}
+
+p {
+	font-size: 16px;
+	font-family: Arial;
+}
+
+p {
+	font: 16px Arial;
+}
+
+p {
+	font-size: 16px;
+	font-family: Arial;
+	line-height: 50px;
+}
+
+p {
+	font: 16px/50px Arial;
+}
+
+p {
+	font-size: 16px;
+	font-family: Arial;
+	font-weight: bold;
+}
+
+p {
+	font: bold 16px Arial;
+}
+
+p {
+	font-size: 16px;
+	font-family: Arial;
+	font-weight: bold;
+	line-height: 50px;
+	font-style: italic;
+}
+
+p {
+	font: bold italic 16px/50px Arial;
+}
+
+<p>
+	some long text
+</p>
+<p>
+	some long text
+</p>
+<p>
+	some long text
+</p>
+
+p {
+	text-indent: 50px;
+	text-align: justify;
+	width: 400px;
+}
+
+<p>
+	Lorem ipsum dolor sit amet.
+</p>
+
+p {
+	text-decoration: underline;
+}
+
+<p>
+	Lorem ipsum dolor sit amet.
+</p>
+
+p {
+	text-decoration: overline;
+}
+
+<p>
+	Lorem ipsum dolor sit amet.
+</p>
+
+p {
+	text-decoration: line-through;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f5f5;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+.block {
+    background: #ffffff;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    border-left: 5px solid #4677f5;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+table, th, td {
+    border: 1px solid #999;
+}
+
+th, td {
+    padding: 8px;
+    background: #fafafa;
+}
+
+th {
+    background: #e6e6e6;
+    font-weight: bold;
+}
+
+<p>
+	This is some <i>text</i> in paragraph.
+</p>
+
+p {
+	color: red;
+}
+
+<p>
+	This is some <i>text</i> in paragraph.
+</p>
+
+p {
+	color: red;
+}
+i {
+	color: blue;
+}
+
+h2 {
+	color: red;
+}
+h3 {
+	color: red;
+}
+
+p {
+	color: red;
+}
+
+h2 {
+	color: red;
+}
+h3 {
+	color: red;
+}
+p {
+	color: red;
+	text-align: justify;
+	font-size: 16px;
+}
+
+h2, h3, p {
+	color: red;
+}
+p {
+	text-align: justify;
+	font-size: 16px;
+}
+
+<ul>
+	<li>text <i>italic</i></li>
+	<li>text <i>italic</i></li>
+	<li>text <i>italic</i></li>
+	<li>text <i>italic</i></li>
+</ul>
+
+<p>
+	paragraph text <i>italic</i>
+</p>
+<p>
+	paragraph text <i>italic</i>
+</p>
+
+<p>
+	paragraph text <b><i>bold italic</i></b>
+</p>
+<p>
+	paragraph text <i>italic</i>
+</p>
+
+<p>
+	text <b><i>bold italic</i></b>
+</p>
+<p>
+	text <i>just italic</i>
+</p>
+
+p i {
+	color: red;
+}
+
+p > i {
+	color: red;
+}
+
+<p class="eee">
+	paragraph with class eee
+</p>
+<p class="eee">
+	paragraph with class eee
+</p>
+<p class="zzz">
+	paragraph with class zzz
+</p>
+<p class="zzz">
+	paragraph with class zzz
+</p>
+
+<h2 class="eee">Title</h2>
+<p class="eee">
+	paragraph
+</p>
+<p class="eee">
+	paragraph
+</p>
+<p>
+	paragraph without class
+</p>
+
+<ul class="eee">
+	<li>text</li>
+	<li>text</li>
+	<li>text</li>
+	<li>text</li>
+	<li>text</li>
+</ul>
+
+<p>
+	This is a paragraph with text.
+</p>
+
+<p>
+	This is a paragraph with <span class="red">text</span>.
+</p>
+
+<p>
+	Lorem ipsum <span class="xxx">dolor sit</span> amet.
+</p>
+<p>
+	<span class="xxx">Lorem ipsum</span> dolor sit amet.
+</p>
+
+<h2 class="eee">Title</h2>
+<p class="eee">
+	text
+</p>
+
+<h2 class="eee">Title</h2>
+<p class="eee">
+	text
+</p>
+
+<div class="block">
+	<h2>Title</h2>
+	<p>
+		text
+	</p>
+</div>
+<div class="block">
+	<h2>Title</h2>
+	<p>
+		text
+	</p>
+</div>
+
+<p class="eee">
+	text <i>italic</i>
+</p>
+<p class="eee">
+	text <i>italic</i>
+</p>
+<div class="eee">
+	text <i>italic</i>
+</div>
+<div class="eee">
+	text <i>italic</i>
+</div>
+
+<div class="block">
+	<h2 class="header">Title h2</h2>
+	<p>
+		text
+	</p>
+	
+	<h3 class="header">Title h3</h3>
+	<p>
+		text
+	</p>
+	<p>
+		text
+	</p>
+</div>
+<div class="block">
+	<h2 class="header">Title h2</h2>
+	<p>
+		text
+	</p>
+	
+	<h3 class="header">Title h3</h3>
+	<p>
+		text
+	</p>
+	<p>
+		text
+	</p>
+</div>
+
+<p class="eee">
+	lorem ipsum
+</p>
+<p class="eee">
+	lorem ipsum
+</p>
+
+<p>
+	lorem <span class="eee">ipsum</span>
+</p>
+<p>
+	lorem <span class="eee">ipsum</span>
+</p>
+
+<p class="error large">
+	lorem ipsum
+</p>
+
+<div id="block1">
+	<p>text</p>
+	<p>text</p>
+</div>
+<div id="block2">
+	<p>text</p>
+	<p>text</p>
+</div>
+
+<div id="elem1">
+	<h2>Title</h2>
+	<p>
+		text
+	</p>
+	<p>
+		text
+	</p>
+</div>
+<div id="elem2">
+	<h2>Title</h2>
+	<p>
+		text
+	</p>
+	<p>
+		text
+	</p>
+</div>
+<div id="elem3">
+	<h2>Title</h2>
+	<p>
+		text
+	</p>
+	<p>
+		text
+	</p>
+</div>
+
+<div id="block" class="large">
+	<p>text</p>
+	<p>text</p>
+</div>
+
+<div id="block" class="text">
+	<p>text</p>
+	<p>text</p>
+	<p>text</p>
+</div>
+<div class="text">
+	<p>text</p>
+	<p>text</p>
+	<p>text</p>
+</div>
+
+<div id="block">
+	<h2>Title</h2>
+	<p>text</p>
+	<p>text</p>
+</div>
+
+<div id="block">
+	<h2 class="header">Title</h2>
+	<p>text</p>
+	<p>text</p>
+	
+	<h3 class="header">Title</h3>
+	<p>text</p>
+	<p>text</p>
+</div>
+
+<div id="elem">
+	<p class="text">+++</p>
+	<p class="text">+++</p>
+	
+	<ul>
+		<li class="text">---</li>
+		<li class="text">---</li>
+		<li class="text">---</li>
+		<li>---</li>
+		<li>---</li>
+	</ul>
+</div>
+
+<p class="text">---</p>
+
+<div id="elem">
+	<p class="text">---</p>
+	<p class="text">---</p>
+	
+	<ul>
+		<li class="text">+++</li>
+		<li class="text">+++</li>
+		<li class="text">+++</li>
+		<li>---</li>
+		<li>---</li>
+	</ul>
+</div>
+
+<p class="text">---</p>
+
+<p class="eee">
+	This is a paragraph with text.
+</p>
+<p class="zzz">
+	This is a paragraph with text.
+</p>
+<p class="eee zzz">
+	This is a paragraph with text.
+</p>
+
+<p class="eee">
+	This is a paragraph with text.
+</p>
+<p class="zzz">
+	This is a paragraph with text.
+</p>
+<p class="ccc">
+	This is a paragraph with text.
+</p>
+<p class="eee zzz ccc">
+	This is a paragraph with text.
+</p>
+
+<div>
+	<p>
+		+++
+	</p>
+	<p>
+		+++
+	</p>
+</div>
+<div>
+	<p>
+		+++
+	</p>
+</div>
+
+<p>
+	---
+</p>
+<p>
+	---
+</p>
+
+<div>
+	<h2>+++</h2>
+	<p>
+		---
+	</p>
+	<p>
+		---
+	</p>
+</div>
+<div>
+	<h2>+++</h2>
+	<p>
+		---
+	</p>
+</div>
+
+<h2>---</h2>
+<p>
+	---
+</p>
+
+<div id="block">
+	<h2>---</h2>
+	<p>
+		+++
+	</p>
+	<p>
+		+++
+	</p>
+</div>
+<div>
+	<h2>---</h2>
+	<p>
+		---
+	</p>
+</div>
+
+<h2>---</h2>
+<p>
+	---
+</p>
+
+<div id="block">
+	<h2>+++</h2>
+	<p>
+		---
+	</p>
+	<p>
+		---
+	</p>
+	
+	<h2>+++</h2>
+	<p>
+		---
+	</p>
+</div>
+<div>
+	<h2>---</h2>
+	<p>
+		---
+	</p>
+</div>
+
+<h2>---</h2>
+<p>
+	---
+</p>
+
+<div id="block">
+	<h2 class="bbb">+++</h2>
+	<p class="bbb">
+		+++
+	</p>
+	<p>
+		---
+	</p>
+	
+	<h2 class="bbb">+++</h2>
+	<p>
+		---
+	</p>
+</div>
+<div class="bbb">
+	+++
+</div>
+
+<h2>---</h2>
+<p class="bbb">
+	+++
+</p>
+
+p {
+	color: red;
+}
+p {
+	color: green;
+}
+
+<p class="text">text</p>
+p {
+	color: red;
+}
+.text {
+	color: green; /* применится этот цвет */
+}
+
+<p id="elem" class="text">text</p>
+.text {
+	color: red;
+}
+#elem {
+	color: green; /* применится этот цвет */
+}
+
+<div class="block">
+	<p>text</p>
+</div>
+.block {
+	color: red;
+}
+p {
+	color: green; /* применится этот цвет */
+}
+
+<div id="block">
+	<p class="text">text</p>
+</div>
+#block {
+	color: red;
+}
+.text {
+	color: green; /* применится этот цвет */
+}
+
+<h2>text</h2>
+<p>
+	+
+</p>
+<p>
+	-
+</p>
+<p>
+	-
+</p>
+
+<p class="test">
+	text
+</p>
+<p>
+	+
+</p>
+<p>
+	-
+</p>
+
+<p class="test">
+	text
+</p>
+<p class="elem">
+	+
+</p>
+<p>
+	-
+</p>
+
+<div>
+	<h2>text</h2>
+	<p>
+		+++
+	</p>
+	<p>
+		+++
+	</p>
+	<p>
+		+++
+	</p>
+</div>
+<p>
+	-
+</p>
+
+<div>
+	<p class="test">
+		text
+	</p>
+	<p>
+		+++
+	</p>
+	<p>
+		+++
+	</p>
+</div>
+<p>
+	---
+</p>
+
+<div>
+	<p class="test">
+		text
+	</p>
+	<p class="elem">
+		+++
+	</p>
+	<p>
+		---
+	</p>
+	<p class="elem">
+		+++
+	</p>
+</div>
+<p>
+	---
+
+	
